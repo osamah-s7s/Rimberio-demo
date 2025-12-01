@@ -199,27 +199,7 @@ Potential improvements for future iterations:
 - [ ] Database integration
 - [ ] API integration for product data
 
-## 👨‍💻 Author
 
-**Your Name**
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-
----
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🙏 Acknowledgments
-
-- Bootstrap team for the amazing framework
-- Font Awesome for the icon library
-- All contributors and resources that helped in learning web development
-
----
 
 <div align="center">
 
