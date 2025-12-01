@@ -1,4 +1,4 @@
-# 👟 RIMBERIO - E-Commerce Shoe Store Website
+#  RIMBERIO - E-Commerce Shoe Store Website
 
 > A modern, responsive e-commerce website for a premium shoe store, built during my second semester as a showcase of front-end web development skills.
 
@@ -7,7 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
@@ -20,24 +20,24 @@
 - [Future Enhancements](#future-enhancements)
 - [Author](#author)
 
-## 🎯 Overview
+##  Overview
 
 **RIMBERIO** is a fully responsive e-commerce website designed for a premium shoe store. The project demonstrates proficiency in front-end web development, featuring a clean and modern user interface with multiple pages showcasing different shoe categories, products, and a contact form.
 
 This project was developed during my **second semester** as a practical application of HTML, CSS, and JavaScript skills, incorporating modern web design principles and responsive layouts.
 
-## ✨ Features
+##  Features
 
-- 🏠 **Homepage** with interactive carousel showcasing featured products
-- 📦 **Product Categories** page with organized shoe types (Boots, Sneakers, Loafers, etc.)
-- 👟 **Products Page** displaying various shoes with pricing and ratings
-- 📞 **Contact Page** with functional contact form
-- 🏁 **Racing Boots** dedicated section for high-performance footwear
-- 📱 **Fully Responsive** design that works on all devices
-- ⭐ **Product Ratings** system with star icons
-- 🎨 **Modern UI/UX** with smooth transitions and hover effects
-- 🔍 **Search Functionality** (UI ready)
-- 🛒 **Shopping Cart** icon integration (UI ready)
+-  **Homepage** with interactive carousel showcasing featured products
+-  **Product Categories** page with organized shoe types (Boots, Sneakers, Loafers, etc.)
+-  **Products Page** displaying various shoes with pricing and ratings
+-  **Contact Page** with functional contact form
+-  **Racing Boots** dedicated section for high-performance footwear
+-  **Fully Responsive** design that works on all devices
+-  **Product Ratings** system with star icons
+-  **Modern UI/UX** with smooth transitions and hover effects
+-  **Search Functionality** (UI ready)
+-  **Shopping Cart** icon integration (UI ready)
 
 ## 🛠 Technologies Used
 
@@ -50,7 +50,7 @@ This project was developed during my **second semester** as a practical applicat
 - **Owl Carousel** - Image carousel/slider
 - **Fancybox** - Lightbox for images
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 RIMBERIO/
@@ -119,7 +119,7 @@ RIMBERIO/
 - Dedicated page for racing/sports footwear
 - Special promotions and featured items
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -175,16 +175,16 @@ The project is a static website, so you can:
 ### Products Page
 - Product grid with ratings and prices
 
-## 🌟 Key Highlights
+## Key Highlights
 
-- ✅ **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
-- ✅ **Modern UI**: Clean, professional design with smooth animations
-- ✅ **Well-Organized Code**: Semantic HTML, modular CSS, and structured JavaScript
-- ✅ **User-Friendly Navigation**: Intuitive menu and page structure
-- ✅ **Product Showcase**: Effective presentation of products with ratings and pricing
-- ✅ **Contact Integration**: Ready-to-use contact form
+-  **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
+-  **Modern UI**: Clean, professional design with smooth animations
+-  **Well-Organized Code**: Semantic HTML, modular CSS, and structured JavaScript
+-  **User-Friendly Navigation**: Intuitive menu and page structure
+-  **Product Showcase**: Effective presentation of products with ratings and pricing
+-  **Contact Integration**: Ready-to-use contact form
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 Potential improvements for future iterations:
 
@@ -199,31 +199,7 @@ Potential improvements for future iterations:
 - [ ] Database integration
 - [ ] API integration for product data
 
-## 👨‍💻 Author
 
-**Your Name**
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-
----
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🙏 Acknowledgments
-
-- Bootstrap team for the amazing framework
-- Font Awesome for the icon library
-- All contributors and resources that helped in learning web development
-
----
-
-<div align="center">
-
-**Built with ❤️ during Second Semester**
 
 ⭐ Star this repo if you find it helpful!
 
