@@ -123,29 +123,35 @@ RIMBERIO/
 
 ### Prerequisites
 
-No special prerequisites needed! Just a modern web browser.
+- A modern web browser (Chrome, Firefox, Edge, Safari)
+- Optional: Python 3.x or Node.js (for local server)
 
-### Installation
+### Quick Start (3 Ways)
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/rimberio.git
-   cd rimberio
-   ```
+#### Method 1: Direct Browser (Simplest)
+1. Navigate to the project folder
+2. Double-click `index.html` to open in your browser
+   - ⚠️ Note: Some features work better with a local server
 
-2. **Open the project**
-   - Simply open `index.html` in your web browser
-   - Or use a local server (recommended):
-     ```bash
-     # Using Python 3
-     python -m http.server 8000
-     
-     # Using Node.js (http-server)
-     npx http-server
-     ```
+#### Method 2: Python Local Server (Recommended)
+```bash
+# Navigate to project folder
+cd RIMBERIO
 
-3. **Access the website**
-   - Navigate to `http://localhost:8000` in your browser
+# Start server
+python -m http.server 8000
+
+# Open browser to: http://localhost:8000
+```
+
+#### Method 3: VS Code Live Server
+1. Install "Live Server" extension in VS Code
+2. Right-click `index.html` → "Open with Live Server"
+3. Website opens automatically with auto-reload
+
+### Detailed Instructions
+
+For more detailed setup instructions, troubleshooting, and deployment options, see **[QUICK_START.md](QUICK_START.md)**
 
 ### Running Locally
 
